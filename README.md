@@ -1,9 +1,9 @@
-## vue-study-road23 ##
+## vue-introduction-study ##
 
 > 这是我的vue学习笔记! 请多多关照!
 
-### vue day01 ###
+### vue 01 ###
 
-- [笔记](./notes/vueday01.md "笔记")
+- [笔记](./notes/vue01.md "笔记")
 
-- [代码](./vueday01 "代码")
+- [代码](./vue01 "代码")
